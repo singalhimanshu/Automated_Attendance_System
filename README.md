@@ -2,7 +2,9 @@
 
 For Required Packages Run:- 
 
-``` pip install -r requirements.txt ```
+``` 
+pip install -r requirements.txt 
+```
 
 
 When we run the train.ipynb, a window is opened that contains a notification bar and different buttons for taking images, train model and recognize the face and quit. It has following steps-
@@ -15,3 +17,11 @@ When we run the train.ipynb, a window is opened that contains a notification bar
 - The recognized person's enrollment number & name are shown in the 'Attendance' bar.
 
 That's how the whole software work.
+
+## Note-
+
+If you don't have a webcam you can use this alternative-
+
+[Droid Cam Windows Client](https://www.dev47apps.com/droidcam/windows/)
+
+[Droid Cam Android App](https://play.google.com/store/apps/details?id=com.dev47apps.droidcam&hl=en_IN)
